@@ -1,2 +1,3 @@
 This is Temp3 file...
 This is the 3rd new line
+This is the 4th new line
